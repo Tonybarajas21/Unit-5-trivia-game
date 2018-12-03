@@ -1,0 +1,68 @@
+body{
+    background-image: url("boom.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#main-logo{
+    height: 30%;
+    width: 24%;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+    margin-top: 2%;
+    margin-left: 14%
+}
+
+#questions-box {
+    text-align: center;
+    color: black;
+    font-size: larger;
+    background: floralwhite;
+    opacity: 3.4;
+    width: 74%;
+    margin-left: 17%;
+    border-style: double;
+}
+.hidden {
+        background: blueviolet;
+        color: aliceblue;
+        opacity: .9;
+        font-weight: 600;
+        font-family: cursive;
+        text-align: center;
+    }
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-weight: 700;
+    font-family: sans-serif;
+    background: blueviolet;
+    text-align: center;
+    opacity: .97;
+    color: white
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+    margin-left: 46%;
+}
+
+h1 {
+    text-align: center;
+    background: blueviolet;
+    opacity: .97;
+    color: white
+}
+h3 {text-align: center;
+    color: black;
+    font-size: x-large;
+    background: floralwhite;
+    opacity: 3.4;
+    width: 93%;
+    margin-left: 76%;
+    border-style: double;}
